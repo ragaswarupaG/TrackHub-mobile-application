@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065173702077",
+    "project_id": "track-hub-97eb8",
+    "storage_bucket": "track-hub-97eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065173702077:android:7af38d85d9f5e9ac182ed4",
+        "android_client_info": {
+          "package_name": "com.example.mbap_project_part_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiLrLbBqrkY8_dfdkAi1ymlAP2-54Z_40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
